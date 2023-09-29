@@ -1,0 +1,76 @@
+
+<h3>Ques:1  What is SEO and explain the importance of SEO?</h3>
+<h3>Ans:-</h3>
+ <b>SEO and its importance:-</b>
+    SEO means Search Engine Optimization and is the process used to optimize a website's technical cofiguration, content relevance and link popularity so its pages can become easily findable, more relevant and popular towards user search queries, and as a consequence, search engine rank them better.The practice of increasing the quantity and quality of traffic to your website through organic search engine result. The ultimate goal of SEO for business is to generate organic traffic searchers clicking through to your websites from a search engine result page(SERP).
+
+<h3>Ques:2 Create an HTML document with appropriate (title) and (meta) tags for SEO optimization. Ensure the title is descriptive and the meta description is concise?</h3>
+<h3>Solution:-</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>All Type Tutorials</title>
+
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snoppet:-1">
+
+    <meta http-equiv="X-UA-Compatible" content="ie-edge">
+
+    <meta name="description" content="All Type Tutorials are free.">
+
+    <meta name="keyword" content="Graphics, Web Audio, Vedio, Vfx ">
+
+    <meta name="author" content="PW Skills">
+
+    <link rel="stylesheet" href="about.html">
+   
+</head>
+<body>
+
+</body>
+</html>
+
+<h3>Ques:3 What are the benefits of using Meta tags?</h3>
+<h3>Ans:</h3>The benefits of using meta tags are as follows- 
+   a- SEO(Search Engine Optimization) Meta Tags, such as the description and keywords tags, can help im prove a webpages visibility on search engine result pages. 
+   b- Social Media Sharing-Meta tags like the open graph protocaltags allow developers to control how web pages are displayed when shared on social media platform like facebook,twitter.
+   c- Character Encoding and Language:- The meta tags specifying the character encoding (UTF-8) ensures that the broesers interprets the text correctl, especially when dealing with special character or multillingual content.
+   d- Viewport Control:- The viewport meta tag is crucial for responsive web design.
+   e- HTTP equiv tag:- Meta tag with http-equiv attributeenable spcific HTTP header functionalities, like refreshing or redirecting the page after a certain time.
+
+<h3>Ques:5 Define Favicon and give an illstrative example?</h3>
+<h3>solution:-</h3>
+A Favicon that stands for a favorite icon is a tiny icon included along with a website, which is displayed in places like the brower's address bar, page tabs, and book mark menu. It is usually 16816 pixels saze and stored in GIF, PNG or ICO file format.<br>
+THey are used to improve user experience and enforce brand consistancy. When a familiar icon is seen in the browser address bar.
+<h4>Example:-</h4>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This is my vlog</title>
+    <!--Favicon-->
+    <link rel="stylesheet" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
